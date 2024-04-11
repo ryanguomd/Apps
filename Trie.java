@@ -4,7 +4,7 @@ class HW09 extends App {
     
     static class Node  {
         // This node's children.
-        // children[0] corresponds to 'a', children[1] corresponds to 'b', ...
+        // children[0] corresponds to 'a', children[1] corresponds to 'b', etc.
         // Initially, all children are null (empty slots).
         Node[] children;
         
